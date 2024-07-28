@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image # read pdf files and convert it into an image then google generative google gini pro model will detect all the words

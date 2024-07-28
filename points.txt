@@ -1,0 +1,4 @@
+1. Field to put my Job Description bar
+2. Upload PDF 
+3. Convert PDF to image--> go ahead with some processing--> turn go to Google Gemini Pro Model based on different prompts
+4. Prompts Templates also we need to create [try to create multiple prompts]
